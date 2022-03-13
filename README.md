@@ -1,16 +1,42 @@
-### Hi there 👋
+## 経歴書
+### 基本情報
+| key | value |
+| ------------- | ------------- |
+| 名前  | 福嶋淳一 |
+| Twitter |[@fukushima146749](https://twitter.com/fukushima146749)|
+| Wantedly |[@fukushima146749](https://www.wantedly.com/id/fukushima146749)|
+| 所属(本業) |LITALICO(リタリコ)|
+| 所属(その他) ||
 
-<!--
-**junichi-fukushima/junichi-fukushima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+※ ご連絡はTwitter⇨Wantedlyの順に反応が早いですm(_ _ )m
 
-Here are some ideas to get you started:
+### 資格
+| 取得日 | 資格名 |
+| ------------- | ------------- |
+| 2021年03月  | PHP技術者認定試験準上級 |
+| TOEIC  | 900点 |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 現在のポジション
+## 活かせる経験/強み
+## 主な業務経歴（エンジニアリング以外）
+### 要約
+| 所属企業 | タスク |
+| ------------- | ------------- |
+| 2021年03月  | PHP技術者認定試験準上級 |
+| TOEIC  | 900点 |
+
+## 主な業務経歴（エンジニアリング）
+### 要約
+### 要約
+| 所属企業 | タスク |
+| ------------- | ------------- |
+| 2021年03月  | PHP技術者認定試験準上級 |
+| TOEIC  | 900点 |
+
+## 技術スタック
+### 実務で利用するもの
+### 個人開発で使用するもの
+
+## なりたいエンジニア像
+## 伸ばしたいスキル
+## 目指したいこと・やりたいこと
