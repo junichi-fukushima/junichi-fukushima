@@ -3,6 +3,7 @@
 | key | value |
 | ------------- | ------------- |
 | 名前  | 福嶋　淳一 |
+| 年齢  | 27(1994年生まれ) |
 | Twitter |[@fukushima146749](https://twitter.com/fukushima146749)|
 | Wantedly |[@fukushima146749](https://www.wantedly.com/id/fukushima146749)|
 | 所属(本業) |LITALICO(リタリコ)|
