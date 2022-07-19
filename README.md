@@ -7,7 +7,6 @@
 | Twitter |[@fukushima146749](https://twitter.com/fukushima146749)|
 | Wantedly |[@fukushima146749](https://www.wantedly.com/id/fukushima146749)|
 | 所属(本業) |LITALICO(リタリコ)|
-| 所属(その他)|きびだんご|
 
 ※ ご連絡はTwitter⇨Wantedlyの順に反応が早いですm(_ _ )m
 
