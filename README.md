@@ -36,7 +36,7 @@
   - Developed and maintained a brand site for children with developmental disorders.
 - **Tech Stack**: PHP, Vue.js, HTML, SCSS
 
-#### [Undisclosed Company - Crowdfunding Platform] (Apr 2021 – Apr 2023)
+#### [side job - Crowdfunding Platform] (Apr 2021 – Apr 2023)
 - **Role**: Web Engineer
 - **Responsibilities**:
   - Joined a company running a crowdfunding platform.
@@ -44,3 +44,13 @@
   - Oversaw Vietnamese outsourced development teams and reviewed deliverables.
   - Created wireframes using Figma and collaborated with designers on UI/UX strategy.
 - **Tech Stack**: PHP (Laravel)
+
+## Education
+
+- **Advanced Institute of Industrial Technology**  
+  Master's Degree in Information Systems (Information Architecture Course)
+
+- **Aoyama Gakuin University**  
+  Bachelor's Degree in International Politics, Economics and Communication  
+  - Specialized in Development Economics  
+  - Conducted comparative research on social security policies between Japan and Thailand for graduation seminar work
