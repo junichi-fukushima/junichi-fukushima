@@ -1,72 +1,48 @@
-## 経歴書(絶賛編集中でございます。。。。)
-### 基本情報
-| key | value |
-| ------------- | ------------- |
-| 名前  | 福嶋　淳一 |
-| 年齢  | 27(1994年生まれ) |
-| Twitter |[@fukushima146749](https://twitter.com/fukushima146749)|
-| Wantedly |[@fukushima146749](https://www.wantedly.com/id/fukushima146749)|
-| 所属(本業) |LITALICO(リタリコ)|
 
-※ ご連絡はTwitter⇨Wantedlyの順に反応が早いですm(_ _ )m
+## Basic Information
+| Key         | Value                                                                 |
+|-------------|-----------------------------------------------------------------------|
+| Name        | Junichi Fukushima                                                     |
+| Age         | 30 (born in 1994)                                                     |
+| Twitter     | [@fukushima146749](https://twitter.com/fukushima146749)              |
+| Wantedly    | [@fukushima146749](https://www.wantedly.com/id/fukushima146749)       |
+| Current Employer | Schoo, Inc.                                                      |
 
-### 資格
-| 取得日 | 資格名 |
-| ------------- | ------------- |
-| 2021年03月  | PHP技術者認定試験準上級 |
-| TOEIC  | 900点 |
+## Past Engineering Experience
+### Companies
 
-## 現在のポジション
-### 本業
-* フロントエンドを中心とした開発
-* 開発だけに留まらず、マーケティング施策の立案から実行まで担当
-
-### 副業
-* WEBプロダクトのUI/UX改善の企画〜実行
-* 社内調整から開発・デザインのスケジューリングまで担当
-* Reactへの移行/フロントエンドのリプレイス技術検証
-
-## 活かせる経験/強み
-* フロントエンドの開発スキル(Reactがメイン)
-* サーバーサイド(Laravel/Railsなど)
-* 社内調整力や施策を推し進める力
-本業/副業ともに、ステイクホルダーを巻き込み施策の企画などを行ってきた経験があります。
-* 事業にコミットする力
-ただ開発するエンジニアではなく、事業や売り上げを見据えた動きをすることが多かったです。アクセス解析・SQLを使ってデータ分析を行い「今事業にとって必要なこと」を考え行動することが得意です。
+#### Schoo, Inc. (Oct 2024 – Present)
+- **Role**: Project Leader / Software Engineer
+- **Responsibilities**:
+  - Leading a full-replacement project for the main service platform.
+  - Accountable for both product and process quality.
+  - Coordinating across stakeholders and driving development execution.
+- **Tech Stack**: Go(gRPC), GraphQL..
 
 
-## 外部発信
-| key | value |
-| ------------- | ------------- |
-| 年月日  | 内容 |
-| 2021.12.20 |[業界未経験からエンジニアになった自分が、やってよかったと思うこと3選](https://qiita.com/Junichi_fukushima/items/b625322ea96b5a921f7e)|
+#### LITALICO, Inc. (May 2021 – Oct 2024)
 
-## 主な業務経歴（エンジニアリング）
-### 要約
-* 作業の自動化
+##### 1. Development and Operation of Welfare Facility SaaS (Jun 2022 – Oct 2024)
+- **Role**: Team Member → Sub Lead
+- **Responsibilities**:
+- **Tech Stack**: PHP (Laravel), Go (for async PDF system), Vue.js / Nuxt.js, DDD, Microservices
 
+##### 2. Asynchronous PDF Output System (Jun 2022 – Sep 2023)
+- **Responsibilities**:
+  - Built a scalable asynchronous report generation system using Go and Echo.
+- **Tech Stack**: Go, Echo
 
-## 主な業務経歴（エンジニアリング以外）
-### 要約
-* 
+##### 3. Growth Hack and Brand Site Maintenance (May 2021 – Jun 2022)
+- **Role**: Web Engineer
+- **Responsibilities**:
+  - Developed and maintained a brand site for children with developmental disorders.
+- **Tech Stack**: PHP, Vue.js, HTML, SCSS
 
-
-
-## 技術スタック
-### 現在実務で利用するもの
-Laravel / React(Next.js) / 
-
-### 個人開発で使用するもの
-Rails(過去に実務経験あり) / React(Next.js)など
-
-## なりたいエンジニア像
-* 売り上げやユーザー満足度など数値までコミットできるエンジニア
-
-
-## 伸ばしたいスキル
-* フロントエンドのスキル
-* 設計
-
-
-## 目指したいこと・やりたいこと
-* 
+#### [Undisclosed Company - Crowdfunding Platform] (Apr 2021 – Apr 2023)
+- **Role**: Web Engineer
+- **Responsibilities**:
+  - Joined a company running a crowdfunding platform.
+  - Led the development of a new search feature using Laravel.
+  - Oversaw Vietnamese outsourced development teams and reviewed deliverables.
+  - Created wireframes using Figma and collaborated with designers on UI/UX strategy.
+- **Tech Stack**: PHP (Laravel)
