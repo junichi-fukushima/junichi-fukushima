@@ -15,8 +15,6 @@
 - **Role**: Project Leader / Software Engineer
 - **Responsibilities**:
   - Leading a full-replacement project for the main service platform.
-  - Accountable for both product and process quality.
-  - Coordinating across stakeholders and driving development execution.
 - **Tech Stack**: Go(gRPC), GraphQL..
 
 
