@@ -54,3 +54,7 @@
   Bachelor's Degree in International Politics, Economics and Communication  
   - Specialized in Development Economics  
   - Conducted comparative research on social security policies between Japan and Thailand for graduation seminar work
+
+## Presentation Materials
+
+https://speakerdeck.com/junichi_fukushima#
