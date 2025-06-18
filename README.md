@@ -55,6 +55,8 @@
   - Specialized in Development Economics  
   - Conducted comparative research on social security policies between Japan and Thailand for graduation seminar work
 
-## Presentation Materials
-
-https://speakerdeck.com/junichi_fukushima#
+## Public speaking experience
+- 2025/06/18(水) [Playwright Lightnings #1](https://playwrightnings.connpass.com/event/340591/)
+   - slide: [システムリプレイスのタイミングでPlaywrightを入れた話](https://speakerdeck.com/junichi_fukushima/sisutemuripureisunotaimingudeplaywrightworu-retahua)
+- 2025/05/14(水)[【技術選定を突き詰める】Online Conferenc​​e 2025](https://findy.connpass.com/event/349580/)
+   - slide: [なぜHono×GraphQLを選んだのか？](https://speakerdeck.com/junichi_fukushima/nasehonoxgraphqlwoxuan-ntanoka)
