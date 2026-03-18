@@ -3,7 +3,7 @@
 | Key         | Value                                                                 |
 |-------------|-----------------------------------------------------------------------|
 | Name        | Junichi Fukushima                                                     |
-| Age         | 30 (born in 1994)                                                     |
+| Age         | 31 (born in 1994)                                                     |
 | Twitter     | [@fukushima146749](https://twitter.com/fukushima146749)              |
 | Wantedly    | [@fukushima146749](https://www.wantedly.com/id/fukushima146749)       |
 | Current Employer | Schoo, Inc.                                                      |
